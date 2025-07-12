@@ -145,14 +145,11 @@ DiscordJoinNotifier/
 4. Test thoroughly
 5. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
 - **Issues**: [GitHub Issues](https://github.com/AndiiCodes/cs2-DiscordJoinNotifierPlugin/issues)
-- **Discord**: [Your Discord Server](https://discord.gg/hsFB2V32PK)
+- **Discord**: [Discord Server](https://discord.gg/hsFB2V32PK)
 
 ## Changelog
 
@@ -171,5 +168,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
  
-**Repository**: [DiscordJoinNotifier](https://github.com/AndiiCodes/DiscordJoinNotifier)
+**Repository**: [DiscordJoinNotifier](https://github.com/AndiiCodes/cs2-DiscordJoinNotifierPluginr)
 
