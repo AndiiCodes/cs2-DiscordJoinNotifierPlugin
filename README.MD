@@ -59,7 +59,7 @@ A CounterStrikeSharp plugin that sends Discord notifications when players join y
    ├── DiscordJoinNotifier.dll
    ├── DiscordJoinNotifier.deps.json
    ├── DiscordJoinNotifier.pdb
-   └── .csplugin.json
+  
    ```
 
 3. **Restart your CS2 server**
