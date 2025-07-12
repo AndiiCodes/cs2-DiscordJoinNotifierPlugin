@@ -1,3 +1,9 @@
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99) 
+<h3 align="left">Support:</h3>
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Andiicodes)
+
+
 # Discord Join Notifier Plugin
 
 A CounterStrikeSharp plugin that sends Discord notifications when players join your CS2 server.
