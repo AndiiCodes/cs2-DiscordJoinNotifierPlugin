@@ -11,7 +11,7 @@ A CounterStrikeSharp plugin that sends Discord notifications when players join y
 
 ## Requirements
 
-- **CS2 Server** with CounterStrikeSharp (CSS) installed
+- **CS2 Server** with (CounterStrikeSharp)[https://github.com/roflmuffin/CounterStrikeSharp] installed
 - **Discord Webhook URL** (see setup instructions below)
 
 ## Installation
