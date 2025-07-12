@@ -18,15 +18,15 @@ A CounterStrikeSharp plugin that sends Discord notifications when players join y
 
 ### Option 1: Download Pre-built Plugin
 
-1. Download the latest release from the [Releases](https://github.com/AndiiCodes/DiscordJoinNotifier/releases) page
+1. Download the latest release from the [Releases](https://github.com/AndiiCodes/cs2-DiscordJoinNotifierPlugin/releases) page
 2. Extract the files to your server
 
 ### Option 2: Build from Source
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/AndiiCodes/DiscordJoinNotifier.git
-   cd DiscordJoinNotifier
+   git clone https://github.com/AndiiCodes/cs2-DiscordJoinNotifierPlugin.git
+   cd cs2-DiscordJoinNotifierPlugin
    ```
 
 2. **Build the plugin**:
@@ -151,8 +151,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/AndiiCodes/DiscordJoinNotifier/issues)
-- **Discord**: [Your Discord Server](https://discord.gg/your-server)
+- **Issues**: [GitHub Issues](https://github.com/AndiiCodes/cs2-DiscordJoinNotifierPlugin/issues)
+- **Discord**: [Your Discord Server](https://discord.gg/hsFB2V32PK)
 
 ## Changelog
 
