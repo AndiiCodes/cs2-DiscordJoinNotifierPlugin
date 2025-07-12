@@ -174,5 +174,5 @@ DiscordJoinNotifier/
 ---
 
  
-**Repository**: [DiscordJoinNotifier](https://github.com/AndiiCodes/cs2-DiscordJoinNotifierPluginr)
+**Repository**: [DiscordJoinNotifier](https://github.com/AndiiCodes/cs2-DiscordJoinNotifierPlugin)
 
